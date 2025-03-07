@@ -1,0 +1,10 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Shield background -->
+  <path d="M24 0L0 12V24C0 37.2548 10.7452 48 24 48C37.2548 48 48 37.2548 48 24V12L24 0Z" fill="#4F46E5"/>
+  
+  <!-- Checkmark -->
+  <path d="M34 18L20 32L14 26" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Plus sign -->
+  <path d="M24 14V34M14 24H34" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

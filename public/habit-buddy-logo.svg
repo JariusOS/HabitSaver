@@ -1,0 +1,24 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="24" cy="24" r="22" fill="#4F46E5" />
+  
+  <!-- Calendar outline -->
+  <rect x="14" y="12" width="20" height="24" rx="2" fill="white" />
+  
+  <!-- Calendar header -->
+  <rect x="14" y="12" width="20" height="6" rx="2" fill="#4F46E5" stroke="white" stroke-width="1" />
+  
+  <!-- Calendar grid lines -->
+  <line x1="14" y1="24" x2="34" y2="24" stroke="#E5E7EB" stroke-width="1" />
+  <line x1="14" y1="30" x2="34" y2="30" stroke="#E5E7EB" stroke-width="1" />
+  <line x1="21" y1="18" x2="21" y2="36" stroke="#E5E7EB" stroke-width="1" />
+  <line x1="27" y1="18" x2="27" y2="36" stroke="#E5E7EB" stroke-width="1" />
+  
+  <!-- Checkmarks for completed habits -->
+  <path d="M19 22L17 24L19 26" stroke="#4F46E5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M19 28L17 30L19 32" stroke="#4F46E5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <!-- Buddy silhouette -->
+  <circle cx="32" cy="16" r="6" fill="#FB7185" stroke="white" stroke-width="1" />
+  <path d="M30 16.5C30 16.5 30.5 17.5 32 17.5C33.5 17.5 34 16.5 34 16.5" stroke="white" stroke-width="1" stroke-linecap="round" />
+</svg>
